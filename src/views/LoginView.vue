@@ -64,7 +64,7 @@ function submitLogin(values: any): void {
 
   store.login(user);
 }
-
+// test
 function errorCloseHandler() {
   errorMessage.value = "";
 }
